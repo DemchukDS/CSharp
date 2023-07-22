@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task003_Parity\bin\Debug\net7.0\C#HW001_task003_Parity.exe
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task003_Parity\bin\Debug\net7.0\C#HW001_task003_Parity.deps.json
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task003_Parity\bin\Debug\net7.0\C#HW001_task003_Parity.runtimeconfig.json
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task003_Parity\bin\Debug\net7.0\C#HW001_task003_Parity.dll
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task003_Parity\bin\Debug\net7.0\C#HW001_task003_Parity.pdb
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task003_Parity\obj\Debug\net7.0\C#HW001_task003_Parity.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task003_Parity\obj\Debug\net7.0\C#HW001_task003_Parity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task003_Parity\obj\Debug\net7.0\C#HW001_task003_Parity.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task003_Parity\obj\Debug\net7.0\C#HW001_task003_Parity.AssemblyInfo.cs
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task003_Parity\obj\Debug\net7.0\C#HW001_task003_Parity.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task003_Parity\obj\Debug\net7.0\C#HW001_task003_Parity.dll
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task003_Parity\obj\Debug\net7.0\refint\C#HW001_task003_Parity.dll
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task003_Parity\obj\Debug\net7.0\C#HW001_task003_Parity.pdb
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task003_Parity\obj\Debug\net7.0\C#HW001_task003_Parity.genruntimeconfig.cache
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task003_Parity\obj\Debug\net7.0\ref\C#HW001_task003_Parity.dll

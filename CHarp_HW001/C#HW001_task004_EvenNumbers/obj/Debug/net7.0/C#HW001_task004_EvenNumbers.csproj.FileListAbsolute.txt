@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task004_EvenNumbers\obj\Debug\net7.0\C#HW001_task004_EvenNumbers.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task004_EvenNumbers\obj\Debug\net7.0\C#HW001_task004_EvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task004_EvenNumbers\obj\Debug\net7.0\C#HW001_task004_EvenNumbers.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task004_EvenNumbers\obj\Debug\net7.0\C#HW001_task004_EvenNumbers.AssemblyInfo.cs
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task004_EvenNumbers\obj\Debug\net7.0\C#HW001_task004_EvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task004_EvenNumbers\bin\Debug\net7.0\C#HW001_task004_EvenNumbers.exe
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task004_EvenNumbers\bin\Debug\net7.0\C#HW001_task004_EvenNumbers.deps.json
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task004_EvenNumbers\bin\Debug\net7.0\C#HW001_task004_EvenNumbers.runtimeconfig.json
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task004_EvenNumbers\bin\Debug\net7.0\C#HW001_task004_EvenNumbers.dll
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task004_EvenNumbers\bin\Debug\net7.0\C#HW001_task004_EvenNumbers.pdb
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task004_EvenNumbers\obj\Debug\net7.0\C#HW001_task004_EvenNumbers.dll
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task004_EvenNumbers\obj\Debug\net7.0\refint\C#HW001_task004_EvenNumbers.dll
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task004_EvenNumbers\obj\Debug\net7.0\C#HW001_task004_EvenNumbers.pdb
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task004_EvenNumbers\obj\Debug\net7.0\C#HW001_task004_EvenNumbers.genruntimeconfig.cache
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task004_EvenNumbers\obj\Debug\net7.0\ref\C#HW001_task004_EvenNumbers.dll

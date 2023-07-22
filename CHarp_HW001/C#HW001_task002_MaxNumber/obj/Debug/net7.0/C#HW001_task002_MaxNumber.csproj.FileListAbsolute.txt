@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task002_MaxNumber\bin\Debug\net7.0\C#HW001_task002_MaxNumber.exe
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task002_MaxNumber\bin\Debug\net7.0\C#HW001_task002_MaxNumber.deps.json
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task002_MaxNumber\bin\Debug\net7.0\C#HW001_task002_MaxNumber.runtimeconfig.json
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task002_MaxNumber\bin\Debug\net7.0\C#HW001_task002_MaxNumber.dll
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task002_MaxNumber\bin\Debug\net7.0\C#HW001_task002_MaxNumber.pdb
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task002_MaxNumber\obj\Debug\net7.0\C#HW001_task002_MaxNumber.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task002_MaxNumber\obj\Debug\net7.0\C#HW001_task002_MaxNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task002_MaxNumber\obj\Debug\net7.0\C#HW001_task002_MaxNumber.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task002_MaxNumber\obj\Debug\net7.0\C#HW001_task002_MaxNumber.AssemblyInfo.cs
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task002_MaxNumber\obj\Debug\net7.0\C#HW001_task002_MaxNumber.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task002_MaxNumber\obj\Debug\net7.0\C#HW001_task002_MaxNumber.dll
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task002_MaxNumber\obj\Debug\net7.0\refint\C#HW001_task002_MaxNumber.dll
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task002_MaxNumber\obj\Debug\net7.0\C#HW001_task002_MaxNumber.pdb
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task002_MaxNumber\obj\Debug\net7.0\C#HW001_task002_MaxNumber.genruntimeconfig.cache
+C:\Users\Asus\Desktop\IT\C#Seminar1\HW\C#HW001_task002_MaxNumber\obj\Debug\net7.0\ref\C#HW001_task002_MaxNumber.dll

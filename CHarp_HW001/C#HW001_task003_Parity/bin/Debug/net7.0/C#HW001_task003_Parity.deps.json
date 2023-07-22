@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "C#HW001_task003_Parity/1.0.0": {
+        "runtime": {
+          "C#HW001_task003_Parity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C#HW001_task003_Parity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

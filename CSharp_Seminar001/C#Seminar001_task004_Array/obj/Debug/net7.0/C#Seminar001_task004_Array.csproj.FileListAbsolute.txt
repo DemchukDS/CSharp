@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\IT\C#Seminar1\C#Seminar001_task004_Array\obj\Debug\net7.0\C#Seminar001_task004_Array.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\IT\C#Seminar1\C#Seminar001_task004_Array\obj\Debug\net7.0\C#Seminar001_task004_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\IT\C#Seminar1\C#Seminar001_task004_Array\obj\Debug\net7.0\C#Seminar001_task004_Array.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\IT\C#Seminar1\C#Seminar001_task004_Array\obj\Debug\net7.0\C#Seminar001_task004_Array.AssemblyInfo.cs
+C:\Users\Asus\Desktop\IT\C#Seminar1\C#Seminar001_task004_Array\obj\Debug\net7.0\C#Seminar001_task004_Array.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\IT\C#Seminar1\C#Seminar001_task004_Array\bin\Debug\net7.0\C#Seminar001_task004_Array.exe
+C:\Users\Asus\Desktop\IT\C#Seminar1\C#Seminar001_task004_Array\bin\Debug\net7.0\C#Seminar001_task004_Array.deps.json
+C:\Users\Asus\Desktop\IT\C#Seminar1\C#Seminar001_task004_Array\bin\Debug\net7.0\C#Seminar001_task004_Array.runtimeconfig.json
+C:\Users\Asus\Desktop\IT\C#Seminar1\C#Seminar001_task004_Array\bin\Debug\net7.0\C#Seminar001_task004_Array.dll
+C:\Users\Asus\Desktop\IT\C#Seminar1\C#Seminar001_task004_Array\bin\Debug\net7.0\C#Seminar001_task004_Array.pdb
+C:\Users\Asus\Desktop\IT\C#Seminar1\C#Seminar001_task004_Array\obj\Debug\net7.0\C#Seminar001_task004_Array.dll
+C:\Users\Asus\Desktop\IT\C#Seminar1\C#Seminar001_task004_Array\obj\Debug\net7.0\refint\C#Seminar001_task004_Array.dll
+C:\Users\Asus\Desktop\IT\C#Seminar1\C#Seminar001_task004_Array\obj\Debug\net7.0\C#Seminar001_task004_Array.pdb
+C:\Users\Asus\Desktop\IT\C#Seminar1\C#Seminar001_task004_Array\obj\Debug\net7.0\C#Seminar001_task004_Array.genruntimeconfig.cache
+C:\Users\Asus\Desktop\IT\C#Seminar1\C#Seminar001_task004_Array\obj\Debug\net7.0\ref\C#Seminar001_task004_Array.dll
