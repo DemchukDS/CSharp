@@ -2,9 +2,8 @@
 
 Console.Clear();
 Console.WriteLine("Enter number N: ");
-double N = Convert.ToSingle(Console.ReadLine());
-double N2 = N - 0.4999999999999999999999999999999999999999999999999999999999999;
-int iN = Convert.ToInt32(N2);
+double N = Math.Floor(Convert.ToSingle(Console.ReadLine())); // floor округляет в меньшую сторону.
+int iN = Convert.ToInt32(N);
 int negN = iN * -1;
 for (int i = negN; i <= iN; i++) 
 {

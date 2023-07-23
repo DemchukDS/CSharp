@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Desktop\\IT\\C#Seminar1\\C#Seminar001_task004_Array\\C#Seminar001_task004_Array.csproj": {}
+    "C:\\Users\\Asus\\Desktop\\IT\\CSharp\\CSharp_Seminar001\\C#Seminar001_task004_Array\\C#Seminar001_task004_Array.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Desktop\\IT\\C#Seminar1\\C#Seminar001_task004_Array\\C#Seminar001_task004_Array.csproj": {
+    "C:\\Users\\Asus\\Desktop\\IT\\CSharp\\CSharp_Seminar001\\C#Seminar001_task004_Array\\C#Seminar001_task004_Array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\IT\\C#Seminar1\\C#Seminar001_task004_Array\\C#Seminar001_task004_Array.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\IT\\CSharp\\CSharp_Seminar001\\C#Seminar001_task004_Array\\C#Seminar001_task004_Array.csproj",
         "projectName": "C#Seminar001_task004_Array",
-        "projectPath": "C:\\Users\\Asus\\Desktop\\IT\\C#Seminar1\\C#Seminar001_task004_Array\\C#Seminar001_task004_Array.csproj",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\IT\\CSharp\\CSharp_Seminar001\\C#Seminar001_task004_Array\\C#Seminar001_task004_Array.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Desktop\\IT\\C#Seminar1\\C#Seminar001_task004_Array\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\IT\\CSharp\\CSharp_Seminar001\\C#Seminar001_task004_Array\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
