@@ -7,7 +7,7 @@ Console.Clear();
 Console.Write("Введите число: ");
 int number = Convert.ToInt32(Console.ReadLine());
 
-while (number > 1000)
+while (number > 999)
 {
     number = number / 10;
 }
