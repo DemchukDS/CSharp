@@ -5,9 +5,9 @@ Console.Write("Enter three-diginit number: ");
 int number = Convert.ToInt32(Console.ReadLine());
 if (number < 1000 && number > 99)
 {
-    int a = number % 100;
-    int solution = a / 10;
-    Console.WriteLine($"Вторая цифра введённого числа: {solution}");
+    int a = number % 100 / 10;
+    //int solution = a / 10;
+    Console.WriteLine($"Вторая цифра введённого числа: {a}");
 }
 else
 {
