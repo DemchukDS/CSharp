@@ -1,4 +1,5 @@
-﻿Random rand = new Random ();
+﻿Console.Clear();
+Random rand = new Random ();
 int number = rand.Next(10, 100); // int number = new Random().Next(10, 100);
 
 int firstNumber = number / 10; // выделяем первую цифру числа
