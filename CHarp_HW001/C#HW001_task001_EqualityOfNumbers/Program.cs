@@ -14,3 +14,4 @@ float second_number = Convert.ToSingle(Console.ReadLine());
         Console.Write(second_number);
         Console.Write(" is the largest");
     }
+Console.ReadKey();
