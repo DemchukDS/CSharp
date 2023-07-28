@@ -2,7 +2,7 @@
 
 Console.Clear();
 
-int Promo(string message)
+int[] Promo(string message)
 {
     Console.Write(message);
     int[] array = new int[2];
@@ -15,7 +15,7 @@ int Promo(string message)
 
 bool EqualityWithZero(int[] array)
 {
-    for (int i = 0, i > array.Length, i++)
+    for (int i = 0; i > array.Length; i++)
     {
         if (array[i] != 0)
         {
@@ -34,21 +34,21 @@ int[] point = Promo("Enter the X and Y coordinate of the point: ");
 
 if (EqualityWithZero(point))
 {
-    if (X > 0 && Y > 0)
+    if (point[0] > 0 && point[1] > 0)
     {
-        Console.WriteLine("Point with coordinate [" + X + ", " + Y + "], is in plane 1");
+        Console.WriteLine("Point with coordinate [" + point[0] + ", " + point[1] + "], is in plane 1");
     }
-    else if (X < 0 && Y > 0)
+    else if (point[0] < 0 && point[1] > 0)
     {
-        Console.WriteLine("Point with coordinate [" + X + ", " + Y + "], is in plane 2");
+        Console.WriteLine("Point with coordinate [" + point[0] + ", " + point[1] + "], is in plane 2");
     }
-    else if (X < 0 && Y < 0)
+    else if (point[0] < 0 && point[1] < 0)
     {
-        Console.WriteLine("Point with coordinate [" + X + ", " + Y + "], is in plane 3");
+        Console.WriteLine("Point with coordinate [" + point[0] + ", " + point[1] + "], is in plane 3");
     }
-    else if (X > 0 && Y < 0)
+    else if (point[0] > 0 && point[1] < 0)
     {
-        Console.WriteLine("Point with coordinate [" + X + ", " + Y + "], is in plane 4");
+        Console.WriteLine("Point with coordinate [" + point[0] + ", " + point[1] + "], is in plane 4");
     }
 }
 
