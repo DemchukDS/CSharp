@@ -11,7 +11,6 @@ int[] Promo(string message) //задает данные на массив и п�
         int number = Convert.ToInt32(Console.ReadLine());
         if (CheckForZero(number))
         {
-            Console.WriteLine("To know the plane the point is in, the coordinates cannot be 0. Try again: ");
             i--;
         }
         else
@@ -23,6 +22,7 @@ int[] Promo(string message) //задает данные на массив и п�
 }
 bool CheckForZero(int number) // Сравнивает с нулём
 {
+    Console.WriteLine("To know the plane the point is in, the coordinates cannot be 0. Try again: ");
     return number == 0;
 }
 
