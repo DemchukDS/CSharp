@@ -19,20 +19,23 @@ void ReturnVolue(char[] array)
 
 Console.WriteLine("Enter five-digit number: ");
 
-for (int i = 0; i < 1; i++)
+int Test()
 {
-    string text = Console.ReadLine();
-    char[] number = text.ToCharArray();
-    if (number.Length > 5 || number.Length < 5)
+    for (int i = 0; i < 1; i++)
     {
-        Console.WriteLine("The entered number isn't five-digit! Try again: ");
-        i--;
+        string text = Console.ReadLine();
+        char[] number = text.ToCharArray();
+        if (number.Length > 5 || number.Length < 5)
+        {
+            Console.WriteLine("The entered number isn't five-digit! Try again: ");
+            i--;
+        }
+        else
+        {
+            ReturnVolue(number);
+        }
     }
-    else
-    {
-        ReturnVolue(number);
-    }
+    return Test();
 }
-
+Test();
 Console.ReadKey();
-
