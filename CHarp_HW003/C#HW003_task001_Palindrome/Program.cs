@@ -18,22 +18,18 @@ void ReturnVolue(char[] array)
 }
 
 Console.WriteLine("Enter five-digit number: ");
-
 int Test()
 {
-    for (int i = 0; i < 1; i++)
+    string text = Console.ReadLine();
+    char[] number = text.ToCharArray();
+    if (number.Length > 5 || number.Length < 5)
     {
-        string text = Console.ReadLine();
-        char[] number = text.ToCharArray();
-        if (number.Length > 5 || number.Length < 5)
-        {
-            Console.WriteLine("The entered number isn't five-digit! Try again: ");
-            i--;
-        }
-        else
-        {
-            ReturnVolue(number);
-        }
+        Console.WriteLine("The entered number isn't five-digit! Try again: ");
+    }
+    else
+    {
+        ReturnVolue(number);
+        Console.WriteLine("Enter five-digit number: ");
     }
     return Test();
 }
