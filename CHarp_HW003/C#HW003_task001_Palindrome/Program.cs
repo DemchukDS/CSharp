@@ -27,10 +27,7 @@ void Test()
         Console.Write("The entered number isn't five-digit! ");
         Test();
     }
-    else
-    {
-        ReturnVolue(number);
-    }
+    ReturnVolue(number);
 }
 
 Test();
