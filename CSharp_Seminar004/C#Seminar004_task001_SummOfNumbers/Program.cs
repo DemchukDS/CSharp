@@ -11,7 +11,7 @@ void SumOfNumbers(int number)
     int sum = 0;
     for (int i = 0; i < number + 1; i++)
     {
-        sum = sum + i;
+        sum = sum + i; // Можно записать sum += i;
     }
     Console.WriteLine(sum);
 }
