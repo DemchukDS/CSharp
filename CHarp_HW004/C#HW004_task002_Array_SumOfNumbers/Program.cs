@@ -8,7 +8,7 @@ Console.Clear();
 char[] EnterAndConvertNumber(string message)
 {
     Console.WriteLine(message);
-    return Console.ReadLine().ToCharArray(); ;
+    return Console.ReadLine().ToCharArray();
 }
 int ConverCharToInt(char digit)
 {
