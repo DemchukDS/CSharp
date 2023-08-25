@@ -1,9 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-
-//Console.WriteLine($"Enter the number: ");
-//string number = Console.ReadLine();
-
-int[] testArr = { 45, 2, 23, 12, 65, 5, 1, 34, 2 };
+﻿int[] testArr = { 45, 2, 23, 12, 65, 5, 1, 34, 2 };
 
 void PrintArray(int[] array)
 {
