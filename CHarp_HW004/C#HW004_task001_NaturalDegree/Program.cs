@@ -8,7 +8,21 @@ int EnterNumber(string message)
 {
     Console.Write(message);
     int number = Convert.ToInt32(Console.ReadLine());
+    if (!ValidateDigit(number))
+    {
+        number = EnterNumber("Try again: ");
+    }
     return number;
+}
+
+bool ValidateDigit(int number)
+{
+    if (number < 0)
+    {
+        Console.Write("The number can be more than zero. ");
+        return false;
+    }
+    return true;
 }
 
 int Volue(int numberA, int numberB)
@@ -21,9 +35,10 @@ int Volue(int numberA, int numberB)
     return volue;
 }
 
+
 int numberA = EnterNumber($"Enter the first number: ");
 int numberB = EnterNumber($"Enter the second number: ");
 
-Console.WriteLine($"The first number {numberA} to the power of the second number {numberB} is {Volue(numberA, numberB)}!");
+Console.WriteLine(Volue(numberA, numberB));
 
 Console.ReadKey();
