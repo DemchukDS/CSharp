@@ -19,23 +19,20 @@ double FindDifferenceBetweenMaxAndMinElementsOfArray(int number)
     double minElement = newRandomArray[0];
     for (int i = 0; i < newRandomArray.Length; i++)
     {
-        newRandomArray[i] = rand.Next(-10, 10);
-        for (int j = 0; j < newRandomArray.Length; j++)
+        newRandomArray[i] = rand.NextDouble() * 20 - 10; //Странная структура для выведени дробных чисел. (max-min)+min (10-(-10)+(-10)
+        if (newRandomArray[i] > maxElement)
         {
-            if (newRandomArray[i] > maxElement)
-            {
-                maxElement = newRandomArray[i];
-            }
-            else if (newRandomArray[i] < minElement)
-            {
-                minElement = newRandomArray[i];
-            }
+            maxElement = newRandomArray[i];
+        }
+        else if (newRandomArray[i] < minElement)
+        {
+            minElement = newRandomArray[i];
         }
         Console.Write($"{newRandomArray[i]} ");
     }
     difference = maxElement - minElement;
 
-    Console.WriteLine($"\n\n The difference between max and min elements of array is {difference}");
+    Console.WriteLine($"\n\nThe difference between max and min elements of array is {difference}");
     return difference;
 }
 
