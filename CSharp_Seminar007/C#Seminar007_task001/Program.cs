@@ -1,36 +1,40 @@
-﻿Console.Clear();
-int numberTask = EnterNumber("Enter the task number: ");
-switch (numberTask)
+﻿while (true)
 {
-    case 1: // Двумерный массив размером m*n, заполненный случайными целыми числами.
-        int row = EnterNumber($"Enter the number of matrix row: ");
-        int column = EnterNumber($"Enter the number of matrix column: ");
+    Console.Clear();
+    int numberTask = EnterNumber("Enter the task number: ");
+    switch (numberTask)
+    {
+        case 1: // Двумерный массив размером m*n, заполненный случайными целыми числами.
+            int row = EnterNumber($"Enter the number of matrix row: ");
+            int column = EnterNumber($"Enter the number of matrix column: ");
 
-        Console.WriteLine("The program generate matrix: ");
-        FillArrayRandomNumbers(row, column); // ПОКА НЕ ВЫВОДИТСЯ
-        Console.ReadKey();
-        break;
+            Console.WriteLine("The program generate matrix: ");
+            FillArrayRandomNumbers(row, column); // ПОКА НЕ ВЫВОДИТСЯ
+            Console.ReadKey();
+            return;
 
-    case 2: // Задайте двумерный масив размера m, n. Каждый элемент в массиве задается по формале A = m + n.
-        FillArrayUseFormula(EnterNumber($"Enter the number of matrix row: "), EnterNumber($"Enter the number of matrix column: "));
-        Console.ReadKey();
-        break;
+        case 2: // Задайте двумерный масив размера m, n. Каждый элемент в массиве задается по формале A = m + n.
+            FillArrayUseFormula(EnterNumber($"Enter the number of matrix row: "), EnterNumber($"Enter the number of matrix column: "));
+            Console.ReadKey();
+            return;
 
-    case 3: // Задать двумерный массив. Найти элементы, у которых оба индекса четные и заменить их на квадраты этих элементов.
+        case 3: // Задать двумерный массив. Найти элементы, у которых оба индекса четные и заменить их на квадраты этих элементов.
 
-        int[,] array = FillArrayRandomNumbers(EnterNumber($"Enter the number of matrix row: "), EnterNumber($"Enter the number of matrix column: "));
-        Console.WriteLine("The program generate new array: ");
-        OutputTwoDimensionalArray(array);
-        SquareElementsOfArray(array);
-        Console.WriteLine("The program has updated the array: ");
-        OutputTwoDimensionalArray(array);
-        Console.ReadKey();
-        break;
-    default:
-        Console.WriteLine("Your entered number of the task doesn't exist!");
-        Console.ReadKey();
-        break;
+            int[,] array = FillArrayRandomNumbers(EnterNumber($"Enter the number of matrix row: "), EnterNumber($"Enter the number of matrix column: "));
+            Console.WriteLine("The program generate new array: ");
+            OutputTwoDimensionalArray(array);
+            SquareElementsOfArray(array);
+            Console.WriteLine("The program has updated the array: ");
+            OutputTwoDimensionalArray(array);
+            Console.ReadKey();
+            return;
+        default:
+            Console.WriteLine("Your entered number of the task doesn't exist!");
+            Console.ReadKey();
+            break;
+    }
 }
+
 
 int EnterNumber(string message)
 {
