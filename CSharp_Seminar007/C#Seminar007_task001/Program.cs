@@ -35,7 +35,6 @@
     }
 }
 
-
 int EnterNumber(string message)
 {
     Console.Write(message);
