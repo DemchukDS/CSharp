@@ -56,9 +56,9 @@
             Console.ReadKey();
             break;
         case 4: // Напишите программу, которая заполнит спирально массив 4 на 4.
-            int RowTaskFour = 10;
-            int ColumnTaskFour = 10;
-            Console.WriteLine("The program generate two matrices: ");
+            int RowTaskFour = 4;
+            int ColumnTaskFour = 4;
+            Console.WriteLine("The program generate matrix: ");
             OutputTwoDimensionalArray(FillMatrixInASpiralWayResult(RowTaskFour, ColumnTaskFour));
             Console.ReadKey();
             break;
